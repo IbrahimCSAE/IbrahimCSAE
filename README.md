@@ -3,17 +3,15 @@
 
 ### Hi there! 👋
 
-My name is Ibrahim and I'm a computer science student at MUN, I have a focus on full stack development.
-
-I enjoy coding as a hobby and always love learning new technologies on my own.
+My name is Ibrahim and I'm a computer science student at MUN, I’m very passionate about cloud computing and full-stack software development. I'm an AWS certified solutions architect with experience in designing and implementing resilient, cost-optimized, high-performing, and secure architectures on AWS. I'm currently looking for internship opportunities to grow my skills in the field.
 
 ---
 
 ### Skills 🤹
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
