@@ -19,16 +19,6 @@ My name is Ibrahim and I'm a computer science student at MUN, I’m very passion
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
-
----
-
-
-
-
-### Im looking for 👀
-
-I'm currently almost done with my second year at MUN as a computer science major, and I'm looking for internships to grow my skills in the field. I'm very motivated and consider myself a hard worker.
-
 ---
 ### How to reach me 📱
 
