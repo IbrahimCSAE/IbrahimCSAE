@@ -3,7 +3,7 @@
 
 ### Hi there! 👋
 
-My name is Ibrahim and I'm a computer science student at MUN, I’m very passionate about cloud computing and full-stack software development. I'm an AWS certified solutions architect with experience in designing and implementing resilient, cost-optimized, high-performing, and secure architectures on AWS. I'm currently looking for internship opportunities to grow my skills in the field.
+My name is Ibrahim and I'm a computer science student at MUN, I’m very passionate about cloud computing and full-stack software development. I'm an AWS certified solutions architect with experience in designing and implementing resilient, cost-optimized, high-performing, and secure architectures on AWS.
 
 ---
 
