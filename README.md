@@ -11,12 +11,12 @@
 
 ---
 
-### Hi there! 👋
+### Hi there!
 
 My name is Ibrahim and I'm a software engineer. I’m very passionate about cloud computing and full-stack software development. I'm an AWS certified solutions architect with experience in designing and implementing resilient, cost-optimized, high-performing, and secure architectures on AWS.
 
 ---
-### Certifications 📜
+### Certifications
 
 All images are clickable and redirect to Credly for verification.
 
@@ -32,7 +32,7 @@ All images are clickable and redirect to Credly for verification.
 
 
 ---
-### Skills 🤹
+### Skills
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,7 +49,7 @@ All images are clickable and redirect to Credly for verification.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 ---
-### How to reach me 📱
+### How to reach me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imimmohamed/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ibrahimcs.me)
