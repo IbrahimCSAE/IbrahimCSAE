@@ -28,8 +28,6 @@ All images are clickable and redirect to Credly for verification.
     </a>
 </p>
 
-
-
 ---
 ### Skills 🤹
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
