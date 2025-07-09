@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-    <em>Software engineer with a focus on cloud computing and full stack development</em>
+    <em>Software engineer specializing in medical imaging, AI, and modern web platforms.</em>
 </p>
 
 ---
 
 ### Hi there! 👋
 
-My name is Ibrahim and I'm a software engineer. I’m very passionate about cloud computing and full-stack software development. I'm an AWS certified solutions architect with experience in designing and implementing resilient, cost-optimized, high-performing, and secure architectures on AWS.
+I’m a software engineer with a focus on building robust, high-performance systems in the medical imaging and clinical technology space. I specialize in full-stack development, scalable architecture, and integrating modern technologies like AI and cloud infrastructure into real-world healthcare workflows. With experience delivering complex, production-grade tools in regulated and fast-moving environments, I’m passionate about solving impactful problems at the intersection of engineering, healthcare, and user experience.
 
 ---
 ### Certifications 📜
