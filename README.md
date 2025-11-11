@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <em>Software engineer specializing in medical imaging, AI, and modern web platforms.</em>
+    <em>Principal Software engineer specializing in medical imaging, AI, and modern web platforms.</em>
 </p>
 
 ---
