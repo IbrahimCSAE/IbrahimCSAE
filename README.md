@@ -12,7 +12,7 @@
 
 ### Hi there! 👋
 
-I’m a software engineer with a focus on building robust, high-performance systems in the medical imaging and clinical technology space. I specialize in full-stack development, scalable architecture, and integrating modern technologies like AI and cloud infrastructure into real-world healthcare workflows. With experience delivering complex, production-grade tools in regulated and fast-moving environments, I’m passionate about solving impactful problems at the intersection of engineering, healthcare, and user experience.
+I’m a Principal Software Engineer focused on building robust, high-performance systems in the medical imaging and clinical technology space. I work across full-stack development and scalable architecture, integrating modern technologies like AI and cloud infrastructure into real-world healthcare workflows. With experience leading delivery of complex, production-grade tools in regulated and fast-moving environments, I’m passionate about solving impactful problems at the intersection of engineering, healthcare, and user experience.
 
 ---
 ### Certifications 📜
